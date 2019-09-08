@@ -1,0 +1,48 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.blue {
+  font-size: 4em;
+  text-align: center;
+  font-family: cursive;
+  margin: 0px;
+  padding: 0px;
+  height:100vh;
+  width: 100vw;
+  background-color: lightblue;
+}
+.red {
+  font-size: 4em;
+  text-align: center;
+  font-family:Arial;
+  margin: 0px;
+  padding: 0px;
+  height:100vh;
+  width: 100vw;
+  background-color: #909090;
+
+}
+
+a:hover {
+  color: white;
+ letter-spacing: 50px;
+}
+
+.orange {
+  font-size: 2em;
+  text-align: center;
+  font-size: Courier;
+  font-weight: bold;
+  height: 1000px;
+
+  margin: 0px;
+  padding: 0px;
+  height:100vh;
+  width: 100vw;
+  background-color: orange;
+}
+
+
+h1 {margin: 0px;
+padding: 0px;}
